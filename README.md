@@ -1,6 +1,6 @@
 # InfoSys
 
-Projeto de sistema de controle realizado para para faculdade, para aprendizado de POO e JavaGUI
+Projeto de sistema de controle realizado na faculdade, para aprendizado de POO e JavaGUI
 
 -Java
 -SqLite
